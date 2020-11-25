@@ -1,0 +1,25 @@
+body {
+    background-color: #f4bc1c;
+}
+
+.burgerSpot {
+    font-size: 30px;
+}
+
+#top {
+    margin-bottom: 20px;
+}
+
+#mid {
+    margin-bottom: 20px;
+}
+
+.orderBurger {
+    text-align: center;
+}
+
+.burger{
+    display: inline-flex;
+    align-items: center;
+    width: 300px;
+}
